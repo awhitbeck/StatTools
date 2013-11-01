@@ -1,0 +1,14 @@
+REPOSITORY FOR GENERIC STAT TOOLS|
+USING A FAST AND LOOSE FRAMEWORK |
+FOR QUICK AND DIRTY STUDIES...   |
+---------------------------------
+
+
+####################
+# git instructions #
+####################
+
+git init myWorkingArea
+cd myWorkingArea
+git remote add origin https://github.com/awhitbeck/StatTools
+git pull origin master
